@@ -4,4 +4,5 @@ color: white; }
 
 h1 {
   box-shadow: 4px 4px 4px black;
-  background-color: burlywood; }
+  background-color: burlywood;
+  line-height: 1; }
